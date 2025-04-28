@@ -7,7 +7,7 @@ export const products = [
         brand: "apple",
         category: "Phone",
         inStock: true,
-        image: "https://m.media-amazon.com/images/I/618Bb+QzCmL.jpg",
+        image: "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
         reviews: [],
     },
     {
@@ -19,7 +19,7 @@ export const products = [
         brand: "logitech",
         category: "Accesories",
         inStock: true,
-        image: "https://m.media-amazon.com/images/I/618Bb+QzCmL.jpg",
+        image: "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
         reviews: [
             {
                 id: "64a65a6158b470c6e06959ee",
@@ -30,11 +30,11 @@ export const products = [
                 createdDate: "2023-07-06T06:08:33.067Z",
                 user: {
                     id: "6475af156bad4917456e6e1e",
-                    name: "Berkant Kaya",
+                    name: "Kutay Berke TOK",
                     email: "example@gmail.com",
                     emailVerified: null,
                     image:
-                        "https://m.media-amazon.com/images/I/618Bb+QzCmL.jpg",
+                        "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
                     hashedPassword: null,
                     createdAt: "2023-05-30T08:08:53.979Z",
                     updatedAt: "2023-05-30T08:08:53.979Z",
@@ -50,7 +50,7 @@ export const products = [
                 createdDate: "2023-07-06T06:08:33.067Z",
                 user: {
                     id: "6475af156bad4917456e6e1e",
-                    name: "Berkant Kaya",
+                    name: "Kutay Berke TOK",
                     email: "example@gmail.com",
                     emailVerified: null,
                     image:
@@ -72,7 +72,7 @@ export const products = [
         brand: "Apple",
         category: "Phone",
         inStock: true,
-        image: "https://m.media-amazon.com/images/I/618Bb+QzCmL.jpg",
+        image: "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
         reviews: [
             {
                 id: "6499b4887402b0efd394d8f3",
@@ -84,11 +84,11 @@ export const products = [
                 createdDate: "2023-06-26T15:53:44.483Z",
                 user: {
                     id: "6499b184b0e9a8c8709821d3",
-                    name: "Berkant Kaya",
+                    name: "Kutay Berke TOK",
                     email: "example1@gmail.com",
                     emailVerified: null,
                     image:
-                        "https://m.media-amazon.com/images/I/618Bb+QzCmL.jpg",
+                        "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
                     hashedPassword: null,
                     createdAt: "2023-06-26T15:40:52.558Z",
                     updatedAt: "2023-06-26T15:40:52.558Z",
@@ -104,11 +104,11 @@ export const products = [
                 createdDate: "2023-06-26T14:30:40.998Z",
                 user: {
                     id: "6475af156bad4917456e6e1e",
-                    name: "Berkant Kaya",
+                    name: "Kutay Berke TOK",
                     email: "example@gmail.com",
                     emailVerified: null,
                     image:
-                        "https://m.media-amazon.com/images/I/618Bb+QzCmL.jpg",
+                        "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
                     hashedPassword: null,
                     createdAt: "2023-05-30T08:08:53.979Z",
                     updatedAt: "2023-05-30T08:08:53.979Z",
@@ -126,7 +126,7 @@ export const products = [
         brand: "logitech",
         category: "Accesories",
         inStock: true,
-        image: "https://m.media-amazon.com/images/I/618Bb+QzCmL.jpg",
+        image: "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
         reviews: [],
     },
     {
@@ -138,7 +138,7 @@ export const products = [
         brand: "Nerunsa",
         category: "Watch",
         inStock: true,
-        image: "https://m.media-amazon.com/images/I/618Bb+QzCmL.jpg",
+        image: "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
         reviews: [],
     },
 ];

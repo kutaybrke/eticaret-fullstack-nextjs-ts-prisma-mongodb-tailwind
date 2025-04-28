@@ -2,6 +2,6 @@ import React from 'react'
 
 export const PageContainer = ({ children }: { children: React.ReactNode }) => {
     return (
-        <div>{children}</div>
+        <div className='px-3 md:px-10'>{children}</div>
     )
 }
